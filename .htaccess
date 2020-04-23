@@ -4,5 +4,5 @@ RewriteEngine On
 
 <IfModule mod_rewrite.c>
 	# 301 Redirect
-	Redirect 301 /day-7.html	http://domashnij-vinograd.ru/
+	Redirect 301 http://domashnij-vinograd.ru/day-7.html	http://domashnij-vinograd.ru/
 </IfModule>
